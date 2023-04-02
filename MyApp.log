@@ -1,0 +1,48 @@
+2023-04-01 21:27:01,406 [restartedMain] INFO  com.vinothit.Application                           - Starting Application using Java 17.0.6 on Vinoths-MacBook-Pro.local with PID 91867 (/Users/vinothkumarduraisamy/Documents/VinothIT/SBMS_V1/13_SB_Logging_Web_App_With_Dev_Tool/target/classes started by vinothkumarduraisamy in /Users/vinothkumarduraisamy/Documents/VinothIT/SBMS_V1/13_SB_Logging_Web_App_With_Dev_Tool)
+2023-04-01 21:27:01,406 [restartedMain] INFO  com.vinothit.Application                           - No active profile set, falling back to 1 default profile: "default"
+2023-04-01 21:27:01,487 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-04-01 21:27:01,488 [restartedMain] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2023-04-01 21:27:01,488 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-01 21:27:01,491 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-04-01 21:27:01,491 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 83 ms
+2023-04-01 21:27:01,528 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-04-01 21:27:01,532 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-01 21:27:01,535 [restartedMain] INFO  com.vinothit.Application                           - Started Application in 0.346 seconds (JVM running for 1751.686)
+2023-04-01 21:27:01,536 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2023-04-01 21:37:25,527 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-04-01 21:37:25,530 [Thread-59] INFO  org.apache.catalina.core.StandardService           - Stopping service [Tomcat]
+2023-04-01 21:37:25,714 [restartedMain] INFO  com.vinothit.Application                           - Starting Application using Java 17.0.6 on Vinoths-MacBook-Pro.local with PID 91867 (/Users/vinothkumarduraisamy/Documents/VinothIT/SBMS_V1/13_SB_Logging_Web_App_With_Dev_Tool/target/classes started by vinothkumarduraisamy in /Users/vinothkumarduraisamy/Documents/VinothIT/SBMS_V1/13_SB_Logging_Web_App_With_Dev_Tool)
+2023-04-01 21:37:25,714 [restartedMain] INFO  com.vinothit.Application                           - No active profile set, falling back to 1 default profile: "default"
+2023-04-01 21:37:25,805 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-04-01 21:37:25,805 [restartedMain] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2023-04-01 21:37:25,805 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-01 21:37:25,810 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-04-01 21:37:25,810 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 94 ms
+2023-04-01 21:37:25,851 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-04-01 21:37:25,856 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-01 21:37:25,859 [restartedMain] INFO  com.vinothit.Application                           - Started Application in 0.298 seconds (JVM running for 2376.019)
+2023-04-01 21:37:25,860 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2023-04-01 21:37:40,356 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-04-01 21:37:40,359 [Thread-65] INFO  org.apache.catalina.core.StandardService           - Stopping service [Tomcat]
+2023-04-01 21:37:40,405 [restartedMain] INFO  com.vinothit.Application                           - Starting Application using Java 17.0.6 on Vinoths-MacBook-Pro.local with PID 91867 (/Users/vinothkumarduraisamy/Documents/VinothIT/SBMS_V1/13_SB_Logging_Web_App_With_Dev_Tool/target/classes started by vinothkumarduraisamy in /Users/vinothkumarduraisamy/Documents/VinothIT/SBMS_V1/13_SB_Logging_Web_App_With_Dev_Tool)
+2023-04-01 21:37:40,405 [restartedMain] INFO  com.vinothit.Application                           - No active profile set, falling back to 1 default profile: "default"
+2023-04-01 21:37:40,483 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-04-01 21:37:40,483 [restartedMain] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2023-04-01 21:37:40,483 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-01 21:37:40,487 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-04-01 21:37:40,487 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 81 ms
+2023-04-01 21:37:40,513 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-04-01 21:37:40,517 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-01 21:37:40,519 [restartedMain] INFO  com.vinothit.Application                           - Started Application in 0.129 seconds (JVM running for 2390.68)
+2023-04-01 21:37:40,520 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2023-04-01 21:40:34,145 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-01 21:40:34,145 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2023-04-01 21:40:34,146 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2023-04-01 21:40:34,147 [http-nio-8080-exec-1] INFO  com.vinothit.rest.MsgRestController                - getWelcomeMsg() started...
+2023-04-01 21:40:34,147 [http-nio-8080-exec-1] WARN  com.vinothit.rest.MsgRestController                - this warning message from getWelcomeMsg()
+2023-04-01 21:40:34,147 [http-nio-8080-exec-1] ERROR com.vinothit.rest.MsgRestController                - Exception Occured :: / by zero
+2023-04-01 21:40:34,147 [http-nio-8080-exec-1] INFO  com.vinothit.rest.MsgRestController                - getWelcomeMsg() ended...
+2023-04-01 21:40:34,846 [http-nio-8080-exec-2] INFO  com.vinothit.rest.MsgRestController                - getWelcomeMsg() started...
+2023-04-01 21:40:34,846 [http-nio-8080-exec-2] WARN  com.vinothit.rest.MsgRestController                - this warning message from getWelcomeMsg()
+2023-04-01 21:40:34,846 [http-nio-8080-exec-2] ERROR com.vinothit.rest.MsgRestController                - Exception Occured :: / by zero
+2023-04-01 21:40:34,846 [http-nio-8080-exec-2] INFO  com.vinothit.rest.MsgRestController                - getWelcomeMsg() ended...
