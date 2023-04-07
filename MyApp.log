@@ -46,3 +46,6 @@
 2023-04-01 21:40:34,846 [http-nio-8080-exec-2] WARN  com.vinothit.rest.MsgRestController                - this warning message from getWelcomeMsg()
 2023-04-01 21:40:34,846 [http-nio-8080-exec-2] ERROR com.vinothit.rest.MsgRestController                - Exception Occured :: / by zero
 2023-04-01 21:40:34,846 [http-nio-8080-exec-2] INFO  com.vinothit.rest.MsgRestController                - getWelcomeMsg() ended...
+2023-04-01 23:39:39,401 [RMI TCP Connection(214)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2023-04-01 23:39:39,412 [RMI TCP Connection(214)-127.0.0.1] INFO  org.apache.catalina.core.StandardService           - Stopping service [Tomcat]
+2023-04-01 23:39:39,413 [RMI TCP Connection(214)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Destroying Spring FrameworkServlet 'dispatcherServlet'
